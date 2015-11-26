@@ -1,2 +1,2 @@
 # Hackerrank
-Hello. This is managed by sekar and cloned by chicka.
+This is an implementation of the hacker rank problems.
